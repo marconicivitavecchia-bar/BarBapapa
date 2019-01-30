@@ -1,4 +1,13 @@
-*{
-    font-family: monospace;
-    font-size: large;
+body{ background-color: hotpink};
+
+#titolobar {
+
+    text-align: center;
+    
+}
+
+#barbaimg {
+
+    text-align: center;
+
 }
