@@ -15,7 +15,7 @@ body{ background-color: rgb(144, 247, 233)};
 #button1 {
 
     background-color:rgb(245, 143, 194);
-    border: none;
+    border: outset;
     color: white;
     padding: 15px 32px 20px 20px;
     float: right;
@@ -30,7 +30,7 @@ body{ background-color: rgb(144, 247, 233)};
 #button2 {
 
     background-color:rgb(245, 143, 194);
-  border: none;
+  border: outset;
   color: white;
   padding: 15px 32px 20px 20px;
   float:right;
