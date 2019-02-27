@@ -1,73 +1,42 @@
-body{ background-color: rgb(144, 247, 233)};
+.main-div {
+    width: 50%;
+    float:left;
+}
+
 #barbaimg {
-    text-align: center;
-    width:20px;
-    display: inline;
+    width: 100%;
 }
 
-.titolobar {
-    text-align:center;
-    font-size: 85px;
-    font-style: oblique;
-    padding-left:250px;
-    
+#barbalogo {
+    padding: 100px 0px 0px 0px;
+    width: 100%;
 }
 
-#button1 {
-
+button {
+    display: block;
+    margin:10px 0px;
     background-color:rgb(245, 143, 194);
     border: double;
     color: white;
     padding: 15px 32px 20px 20px;
     text-decoration: none;
-    display: inline-block;
     font-size: 50px;
-    display: inline;
     border-radius: 50px;
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     box-shadow: 2px 4px #888888;
     outline: 0;
-                
-
 }
 
-#button2 {
-
-    background-color:rgb(245, 143, 194);
-  border: double;
-  color: white;
-  padding: 15px 32px 20px 20px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 50px;
-  display: inline;
-  border-radius: 50px;
-    -moz-border-radius: 50px;
-    -webkit-border-radius: 50px;
-    box-shadow: 2px 4px #888888;
-    outline: 0;
-        
- 
-  
+body{
+    background-color: rgb(155, 247, 247);
 }
-
-#insegna {
-
-    text-align:center;
-    font-size: 30px;
+h1{
     font-style: oblique;
-    padding-left:10px;
-    position: absolute; visibility: visible; right: 320px; top: 150px; z-index: 200;
+    font-size: 50px; 
 }
 
-#barbaimg2 {
-    
-    position: absolute; visibility: visible; right: 350px; top: 600px; z-index: 200;
-    
-}
-.linkbutton {
-
-    width: 100%;
-
+p{
+    font-style: initial;
+    font-size: 30px; 
 }
