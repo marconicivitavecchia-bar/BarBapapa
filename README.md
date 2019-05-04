@@ -1,3 +1,3 @@
 # BarBapapa
 
-<img src="./Cattura.png" alt="barbapapa">
+<img src="./Cattura.PNG" alt="barbapapa">
